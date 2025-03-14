@@ -18,7 +18,7 @@ BART (Transformer-based)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Sankethakumbar/Youtube_Summarizer.git
+git clone https:https://github.com/SanskritiSingh-Dev/Youtube-Summarizer.git
 
 cd youtube-summarizer
 
