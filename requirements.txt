@@ -1,0 +1,9 @@
+youtube-transcript-api
+nltk
+scikit-learn
+transformers
+torch
+openai-whisper
+torchaudio
+pytube
+streamlit
